@@ -288,7 +288,7 @@ monogatari.script ({
 			'e Excuse me?',
 			'e Shhh! Hear me out!',				
 			'show e Think1 center with fadeIn',
-			'e Mr. Osborn asked his best senior project manager if the new features were a good or bad idea.',
+			'e Mr. Osborn asked his best senior product manager if the new features were a good or bad idea.',
 			'e Mr. Osborn wanted to add social features and/or user-generated restaurant reviews to RAPPI.',
 			'e Here’s his reply:',
 			'hide e with fadeOut',
